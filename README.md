@@ -30,7 +30,7 @@ Actualmente soy estudiante de 4to semestre</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,java,nodejs,mysql,git,github,eclipse,vscode,bash,linux,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,java,nodejs,mysql,git,github,eclipse,vscode,linux,line=12" />
   </a>
 </p>
 <br>
